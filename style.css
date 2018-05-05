@@ -116,9 +116,9 @@ footer.writer {
     color: white;
 }
 
-@media (max-width: 414px){
+@media (max-width: 767px){
 	.wrap{
-		padding: 20px;
+		padding: 30px;
 	}
 }
 
